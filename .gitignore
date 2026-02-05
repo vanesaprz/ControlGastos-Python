@@ -12,3 +12,5 @@ env/
 # Gráficos e informes temporales
 *.png
 informe.html
+
+.idea/
